@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Soojin%20An&fontSize=100&textBg=true&animation=fadeIn&fontColor=F68989" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Soojin%20An&fontSize=80&textBg=false&animation=fadeIn&fontColor=F68989" />
 
 
 #### ✨Tech Stacks✨
