@@ -1,14 +1,49 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Soojin%20An&fontSize=100&textBg=false&fontColor=F68989" />
 
-<div aligh=center>
+<div align=center>
 
-#### ✨Tech Stacks✨
+<br />
+<br />
+<br />
 
-###### Machine Learning
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
+#### 🥇 Frontend Stacks
 
-###### Web/App
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=grey"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+
+<br />
+
+#### 🥈 Machine Learning Stacks
+
+<br />
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat&logo=PyTorch Lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
+
+<br />
+
+#### 🥉 Backend Stacks
+
+<br />
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+
+<br />
+<br />
+
+![aiccuracy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiccuracy&show_icons=true&theme=tokyonight&title_color=F68989&text_color=8BE6B7&icon_color=FFF6A9&border_radius=7)
+
+[![soojin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aiccuracy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/aiccuracy)
+
 </div>
