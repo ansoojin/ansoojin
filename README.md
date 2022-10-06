@@ -42,8 +42,4 @@
 <br />
 <br />
 
-![aiccuracy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiccuracy&show_icons=true&theme=tokyonight&title_color=F68989&text_color=8BE6B7&icon_color=FFF6A9&border_radius=7)
-
-[![soojin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aiccuracy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/aiccuracy)
-
 </div>
