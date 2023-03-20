@@ -6,7 +6,7 @@
 <br />
 <br />
 
-#### 🥇 Machine Learning Stacks
+#### 🥇 Machine Learning
 
 <br />
 
@@ -17,7 +17,7 @@
 
 <br />
 
-#### 🥈 Frontend Stacks
+#### 🥈 Frontend
 
 <br />
   
@@ -28,8 +28,7 @@
   
 <br />
 
-#### 🥉 Backend Stacks
-
+#### 🥉 Backend
 <br />
 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
